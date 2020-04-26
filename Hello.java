@@ -1,16 +1,11 @@
 public class Hello{
     public static void main(String[] args){
         System.out.println("VS Code is Awesome..");
-
-        display("Git");
     }
 
-    public static void display(String name)
-    {
-        System.out.println("By By  " + name);
-    }
+ public static void messager(){
+     System.out.println("Horrey now we are able to contributie open source")
+ }
 
-    public static int sqr(int x){
-        return x*x; 
-    }
+
 }
